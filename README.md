@@ -1,7 +1,7 @@
-pkg install python2
+Apakah ini?pkg install python2
 pkg install git
 pkg install nano
-git clone https://github.com/farzain/botkick
+git clone https://github.com/Culluns/BotKick
 >•   ls
 >•   pip2 install rsa
 >•   pip2 install thrift==0.9.3
