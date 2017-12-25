@@ -7,4 +7,4 @@ git clone http://github.com/Culluns/BotKick
 >•   pip2 install requests
 >•   cd BotKick
 >•   ls
->•  python2botkick.py
+>•  python2 botkick.py
